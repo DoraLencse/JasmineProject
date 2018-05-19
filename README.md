@@ -15,3 +15,9 @@ I tested the given web-based application step by step in order to fulfill this U
 * My test ensures when the `loadFeed` function is called and completes its work, there is at least a single `.entry` element within the `.feed` container.
 * My test ensures when a new feed is loaded by the `loadFeed` function that the content actually changes.
 
+## Inspirations for my project solution:
+https://evanhahn.com/how-do-i-jasmine/
+https://jasmine.github.io/
+https://medium.com/letsboot/testing-javascript-with-jasmine-basics-48efe03cf973
+https://stackoverflow.com/questions/33507566/mixed-content-blocked-when-running-an-http-ajax-operation-in-an-https-page
+
