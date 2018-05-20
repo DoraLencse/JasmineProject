@@ -3,6 +3,10 @@
 This is my 5th Udacity Project which I made within Google - Udacity Front- End Web Dev Nanodegree Program. 
 In this project I wrote tests to the given web-based application using Jasmine framework.
 
+## How to run the application?
+* Download my repository from [here](https://github.com/DoraLencse/JasmineProject) and open the index.htm file in a browser.
+* Living [demo]([https://doralencse.github.io/JasmineProject/)
+
 ## My Project
 
 I tested the given web-based application step by step in order to fulfill this Udacity Project requirements.
@@ -15,7 +19,7 @@ I tested the given web-based application step by step in order to fulfill this U
 * My test ensures when the `loadFeed` function is called and completes its work, there is at least a single `.entry` element within the `.feed` container.
 * My test ensures when a new feed is loaded by the `loadFeed` function that the content actually changes.
 
-## Inspirations for my project solution:
+## Inspirations for my project solution / useful reosurces:
 * https://evanhahn.com/how-do-i-jasmine/
 * https://jasmine.github.io/
 * https://medium.com/letsboot/testing-javascript-with-jasmine-basics-48efe03cf973
