@@ -5,7 +5,7 @@ In this project I wrote tests to the given web-based application using Jasmine f
 
 ## How to run the application?
 * Download my repository from [here](https://github.com/DoraLencse/JasmineProject) and open the index.htm file in a browser.
-* Living [demo](https://doralencse.github.io/JasmineProject/) to my project.
+* Live [demo](https://doralencse.github.io/JasmineProject/) of my project.
 
 ## My Project
 
